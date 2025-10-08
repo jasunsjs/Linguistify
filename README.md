@@ -1,12 +1,14 @@
 ## Overview
-**Linguistify** is an AI-powered dubbing application designed to automate the translation and synchronization of audios of YouTube videos, in different languages. This project is inspired by content creators like MrBeast who hire professional voice actors to dub his videos in different languages. Linguistify offers a more versatile and affordable solution for all content creators to reach the world.
+**Linguistify** is an AI-powered dubbing application designed to automate the translation and synchronization of audios of YouTube videos, in different languages. 
+
+This project is inspired by content creators like MrBeast who hire professional voice actors to dub his videos in different languages. Linguistify offers a more versatile and affordable solution for all content creators to reach the world.
 
 ## Tech Stack
-- **Frontend**: React with Chakra UI  
-- **Backend**: Flask  
-- **Speech-to-Text (STT)**: Deepgram
-- **Text-to-Speech (TTS)**: ElevenLabs
-- **Translation**: DeepL,
+- **Frontend**: React with Chakra UI
+- **Backend**: Python Flask
+- **Speech-to-Text (STT)**: [Deepgram](https://deepgram.com/)
+- **Text-to-Speech (TTS)**: [ElevenLabs](https://elevenlabs.io/)
+- **Translation**: [DeepL](https://www.deepl.com/en/translator)
 - **NLP and Translation Refinement**: GPT-4, Hugging Face
 
 ## Workflow
